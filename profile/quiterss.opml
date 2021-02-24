@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>QuiteRSS</title>
+        <dateModified>wo feb 24 14:59:30 2021</dateModified>
+    </head>
+    <body>
+        <outline text="Lego">
+            <outline text="BrickTastic" type="rss" htmlUrl="https://www.bricktastic.nl" xmlUrl="https://www.bricktastic.nl/feed/"/>
+        </outline>
+        <outline text="Nieuws">
+            <outline text="NOS Nieuws" type="rss" htmlUrl="https://nos.nl" xmlUrl="http://feeds.nos.nl/nosnieuwsalgemeen"/>
+            <outline text="NOS.nl binnenlands nieuws" type="rss" htmlUrl="https://nos.nl" xmlUrl="http://feeds.nos.nl/nosnieuwsbinnenland"/>
+            <outline text="NOS.nl buitenlands nieuws" type="rss" htmlUrl="https://nos.nl" xmlUrl="http://feeds.nos.nl/nosnieuwsbuitenland"/>
+            <outline text="NOS Tech" type="rss" htmlUrl="https://nos.nl" xmlUrl="http://feeds.nos.nl/nosnieuwstech"/>
+            <outline text="NOS Opmerkelijk" type="rss" htmlUrl="https://nos.nl" xmlUrl="http://feeds.nos.nl/nosnieuwsopmerkelijk"/>
+            <outline text="RTV Utrecht-Overzicht" type="rss" htmlUrl="http://www.rtvutrecht.nl" xmlUrl="https://www.rtvutrecht.nl/rss/index.xml"/>
+            <outline text="RTV Utrecht-Nieuws" type="rss" htmlUrl="http://www.rtvutrecht.nl" xmlUrl="https://www.rtvutrecht.nl/rss/nieuws.xml"/>
+            <outline text="Wel.nl" type="rss" htmlUrl="https://www.welingelichtekringen.nl" xmlUrl="https://www.welingelichtekringen.nl/feed"/>
+            <outline text="De Correspondent" type="rss" htmlUrl="https://decorrespondent.nl?pk_campaign=rss-feed&amp;pk_medium=rss&amp;pk_source=publication&amp;pk_kwd=all&amp;pk_cid=eccbc87e4b5ce2fe28308fd9f2a7baf3" xmlUrl="https://decorrespondent.nl/feed/v1/publications"/>
+        </outline>
+        <outline text="Tech">
+            <outline text="Scott Hanselman's Blog" type="rss" htmlUrl="https://www.hanselman.com/blog/" xmlUrl="http://feeds.hanselman.com/ScottHanselman"/>
+            <outline text="Adam the Automator" type="rss" htmlUrl="https://adamtheautomator.com" xmlUrl="https://adamtheautomator.com/rss/"/>
+            <outline text="Tweakers Mixed RSS Feed" type="rss" htmlUrl="https://tweakers.net/" xmlUrl="http://feeds.feedburner.com/tweakers/mixed"/>
+            <outline text="Apparata" type="rss" htmlUrl="https://www.apparata.nl" xmlUrl="https://www.apparata.nl/feed"/>
+            <outline text="Azure service updates" type="rss" htmlUrl="https://azure.microsoft.com/en-us/updates/" xmlUrl="https://azurecomcdn.azureedge.net/en-us/updates/feed/"/>
+            <outline text="Ridicurious" type="rss" htmlUrl="https://ridicurious.com" xmlUrl="https://ridicurious.com/feed/"/>
+            <outline text="Planet PowerShell" type="rss" htmlUrl="https://www.planetpowershell.com/" xmlUrl="https://www.planetpowershell.com/feed"/>
+        </outline>
+        <outline text="Motor">
+            <outline text="Motor.NL" type="rss" htmlUrl="https://www.motor.nl" xmlUrl="https://www.motor.nl/feed/"/>
+        </outline>
+    </body>
+</opml>

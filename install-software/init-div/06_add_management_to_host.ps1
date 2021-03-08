@@ -1,0 +1,1 @@
+Set-HostsEntry -IPAddress 127.0.0.1 -HostName 'management' -Description "management to localhost"
